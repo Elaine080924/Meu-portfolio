@@ -10,4 +10,11 @@ As tecnologias que eu usei foram:
 - JS
 ---
 
-# Nesse portfolio dei foco em listar minhas habilidades, minhas competencias e meu atual objetivo. 
+Nesse portfolio dei foco em listar minhas habilidades, minhas competencias e meu atual objetivo. 
+
+O que eu aprendi nesse projeto foi:
+
+- Como criar sites;
+- Como escrever codigos de forma correta;
+- Como estudar novas tecnologias;
+- Como subir o site no git.
